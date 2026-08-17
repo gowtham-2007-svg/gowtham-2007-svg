@@ -1,48 +1,32 @@
-## Hi there 👋
 
-<!--
-**gowtham-2007-svg/gowtham-2007-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Gowtham N
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+### 🚀 Aspiring Entrepreneur | Developer | Builder
 
-# 🌍 Weekend Explore
+I love turning ideas into real-world products using **technology, AI, and creativity**.
 
-**Discover your next weekend adventure. 🚀**
+## 🔥 What I'm Building
 
-Find amazing places, explore destinations, and plan your perfect weekend trip — all in one place.
+🌍 **Weekend Explore** — Discover, plan, and explore your next weekend adventure.
 
-### ✨ Features
+🤖 **AI Projects** — Building AI-powered solutions for real-world problems.
 
-* 🏖️ Beaches
-* ⛰️ Hills & Mountains
-* 🌿 Nature & Parks
-* 🛕 Temples & Culture
-* 🏙️ Cities
-* 🚌 Travel & Bus Information
-* 📍 Google Maps Navigation
-* 📱 Mobile Friendly
-* ⚡ Fast & Smooth UI
+## 💻 Tech I'm Exploring
 
-### 🛠️ Built With
+`JavaScript` `React` `Python` `C++` `HTML` `CSS` `Git` `GitHub` `AI`
 
-**HTML • CSS • JavaScript • Google Maps**
+## 🎯 My Goal
 
-### 🚧 Status
+**Build useful products. Solve real problems. Keep learning.**
 
-**Under Development 🚀**
+## 📌 Currently
 
-### 👨‍💻 Developer
+🔭 Building new projects
+🌱 Learning & improving every day
+💡 Exploring AI & startups
+🚀 Turning ideas into products
 
-**Gowtham N**
+---
 
-⭐ **If you like Weekend Explore, give it a star!**
-
+### ⚡ Let's Build Something Great.
