@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Gowtham N
+#  Hi, I'm Gowtham N
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gowtham+N+%F0%9F%91%8B;Aspiring+Entrepreneur+%F0%9F%9A%80;Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Products+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>🚀 Aspiring Entrepreneur • Developer • Builder</b>
+  <b> Aspiring Entrepreneur • Developer • Builder</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 💡 I love building new ideas into real products
 * 🤖 Exploring Artificial Intelligence
@@ -65,7 +65,7 @@ Building AI-powered solutions designed to solve **real-world problems**.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -75,7 +75,7 @@ Building AI-powered solutions designed to solve **real-world problems**.
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
@@ -85,14 +85,14 @@ Building AI-powered solutions designed to solve **real-world problems**.
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 > **Build useful products. Solve real problems. Keep learning.**
 
-🚀 Build startups
-🤖 Create AI-powered products
-💻 Become a better developer
-🌍 Build products that people actually use
+ Build startups
+ Create AI-powered products
+Become a better developer
+ Build products that people actually use
 
 ---
 
