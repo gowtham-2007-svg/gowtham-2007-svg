@@ -12,5 +12,37 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
+
+# 🌍 Weekend Explore
+
+**Discover your next weekend adventure. 🚀**
+
+Find amazing places, explore destinations, and plan your perfect weekend trip — all in one place.
+
+### ✨ Features
+
+* 🏖️ Beaches
+* ⛰️ Hills & Mountains
+* 🌿 Nature & Parks
+* 🛕 Temples & Culture
+* 🏙️ Cities
+* 🚌 Travel & Bus Information
+* 📍 Google Maps Navigation
+* 📱 Mobile Friendly
+* ⚡ Fast & Smooth UI
+
+### 🛠️ Built With
+
+**HTML • CSS • JavaScript • Google Maps**
+
+### 🚧 Status
+
+**Under Development 🚀**
+
+### 👨‍💻 Developer
+
+**Gowtham N**
+
+⭐ **If you like Weekend Explore, give it a star!**
+
