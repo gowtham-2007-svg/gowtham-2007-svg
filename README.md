@@ -1,120 +1,86 @@
-#  Hi, I'm Gowtham N
+# Gowtham N
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gowtham+N+%F0%9F%91%8B;Aspiring+Entrepreneur+%F0%9F%9A%80;Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Products+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Aspiring+Entrepreneur;Software+Developer;AI+Enthusiast;Building+Technology-Driven+Products" alt="Professional introduction" />
 </p>
 
 <p align="center">
-  <b> Aspiring Entrepreneur • Developer • Builder</b>
+  <strong>Aspiring Entrepreneur | Developer | Technology Enthusiast</strong>
 </p>
 
 <p align="center">
-  I love turning ideas into real-world products using technology, AI, and creativity.
-</p>
-
----
-
-##  About Me
-
-* 💡 I love building new ideas into real products
-* 🤖 Exploring Artificial Intelligence
-* 💻 Developing websites and applications
-* 🌱 Learning something new every day
-* 🚀 Interested in startups and entrepreneurship
-* 🎯 Focused on solving real-world problems
-
----
-
-## 🔥 What I'm Building
-
-### 🌍 Weekend Explore
-
-A travel discovery platform that helps people **discover, plan, and explore weekend destinations**.
-
-### 🤖 AI Projects
-
-Building AI-powered solutions designed to solve **real-world problems**.
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github&perline=8" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-
+  Building practical solutions through technology, artificial intelligence, and innovation.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Professional Summary
+
+I am an aspiring entrepreneur and developer interested in building technology-driven products that address real-world challenges. My interests include software development, artificial intelligence, product development, and entrepreneurship.
+
+I enjoy transforming ideas into practical solutions, learning emerging technologies, and developing products that deliver meaningful value to users.
+
+## Current Projects
+
+### Weekend Explore
+
+A travel discovery platform designed to help users discover destinations, explore local experiences, plan weekend trips, and find relevant local offers and events.
+
+### AI-Powered Solutions
+
+Exploring and developing AI-powered applications focused on practical use cases, improved user experiences, and real-world problem-solving.
+
+## Technical Skills
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham-2007-svg&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-2007-svg&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-##  GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gowtham-2007-svg&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-##  Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham-2007-svg&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-##  My Goals
-
-> **Build useful products. Solve real problems. Keep learning.**
-
- Build startups
- Create AI-powered products
-Become a better developer
- Build products that people actually use
-
----
-
-## 📌 Currently
-
-🔭 Building new projects
-🌱 Learning new technologies
-💡 Exploring AI & startups
-🚀 Turning ideas into products
-
----
-
-## ⚡ Fun Fact
-
-**I don't just want to learn technology — I want to build something with it. 🚀**
-
----
-
-<p align="center">
-  <b>⚡ Let's Build Something Great Together.</b>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github&perline=8" alt="HTML, CSS, JavaScript, React, Python, C++, Git, and GitHub" />
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge" alt="Artificial Intelligence" />
+</p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowtham-2007-svg&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-2007-svg&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most-used programming languages" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gowtham-2007-svg&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham-2007-svg&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
+</p>
+
+## Areas of Interest
+
+* Artificial Intelligence and emerging technologies
+* Full-stack web development
+* Product design and development
+* Entrepreneurship and innovation
+* Building scalable digital solutions
+* Solving real-world problems through technology
+
+## Professional Objectives
+
+* Develop useful and reliable technology products.
+* Strengthen software development and problem-solving skills.
+* Explore practical applications of artificial intelligence.
+* Build products that address genuine user needs.
+* Collaborate with developers and innovators.
+* Turn promising ideas into sustainable products.
+
+## Personal Philosophy
+
+> Build with purpose. Solve meaningful problems. Learn continuously. Create lasting value.
+
+---
+
+<p align="center">
+  <strong>Building Ideas Into Real-World Solutions</strong>
 </p>
