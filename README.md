@@ -27,6 +27,17 @@ I enjoy transforming ideas into practical solutions, learning emerging technolog
 A travel discovery platform designed to help users discover destinations, explore local experiences, plan weekend trips, and find relevant local offers and events.
 
 ### AI-Powered Solutions
+### Weekend Explore
+
+A travel discovery platform designed to help users discover destinations, plan weekend trips, explore local food offers, and discover local events.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Weekend_Explore-100%2B_Users-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Weekend Explore 100+ Users" />
+</p>
+
+- **100+ Users:** Reached over 100 users on the platform.
+- **Features:** Destination discovery, trip planning, local food offers, and event discovery.
+- **Vision:** Making local exploration simple, accessible, and affordable.
 
 Exploring and developing AI-powered applications focused on practical use cases, improved user experiences, and real-world problem-solving.
 
